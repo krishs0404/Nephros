@@ -71,8 +71,9 @@ cd nephros-project
 ```
 
 ### **2. Install Dependencies**
-```bash
-pip install -r requirements.txt```
+```sh
+pip install -r requirements.txt
+```
 
 ### **3. Run the Notebook**
 Open `nephros_kidney_disease_detection.ipynb` in Jupyter Notebook or VS Code.
@@ -89,20 +90,24 @@ Place the dataset in the `data/` directory, or update the path in the notebook.
 Contributions are welcome! If you'd like to contribute:
 
 1. **Fork the repository**:
-   ```bash
-   git fork https://github.com/your-username/nephros-project.git```
+   ```sh
+   git fork https://github.com/your-username/nephros-project.git
+   ```
 
 2. **Create a feature branch**:
-   ```bash
-   git checkout -b feature-name```
+   ```sh
+   git checkout -b feature-name
+   ```
 
 3. **Commit your changes**:
-   ```bash
-   git commit -m "Add feature"```
+   ```sh
+   git commit -m "Add feature"
+   ```
 
 4. **Push to the branch**:
-   ```bash
-   git push origin feature-name```
+   ```sh
+   git push origin feature-name
+   ```
 
 5. **Open a Pull Request**:
 
