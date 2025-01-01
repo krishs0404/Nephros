@@ -65,9 +65,10 @@ Below is an example of a kidney CT scan labeled as "Cyst":
 ## **Setup and Usage**
 
 ### **1. Clone the Repository**
-```bash
+```sh
 git clone https://github.com/your-username/nephros-project.git
-cd nephros-project```
+cd nephros-project
+```
 
 ### **2. Install Dependencies**
 ```bash
