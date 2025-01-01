@@ -68,3 +68,52 @@ Below is an example of a kidney CT scan labeled as "Cyst":
 ```bash
 git clone https://github.com/your-username/nephros-project.git
 cd nephros-project
+
+### **2. Install Dependencies**
+```bash
+pip install -r requirements.txt
+
+### **3. Run the Notebook**
+Open `nephros_kidney_disease_detection.ipynb` in Jupyter Notebook or VS Code.
+
+### **4. Download the Dataset**
+Place the dataset in the `data/` directory, or update the path in the notebook.
+
+## **Results**
+- **Training Accuracy**: ~90%
+- **Validation Accuracy**: ~94% 
+- **Test Accuracy**: ~93%
+
+## **Contributions**
+Contributions are welcome! If you'd like to contribute:
+
+1. **Fork the repository**:
+   ```bash
+   git fork https://github.com/your-username/nephros-project.git
+
+2. **Create a feature branch**:
+   ```bash
+   git checkout -b feature-name
+
+3. **Commit your changes**:
+   ```bash
+   git commit -m "Add feature"
+
+4. **Push to the branch**:
+   ```bash
+   git push origin feature-name
+
+5. **Open a Pull Request**:
+
+## **License**
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## **Acknowledgments**
+- Special thanks to [Kaggle](https://www.kaggle.com/) for the dataset.
+- Tools and frameworks used in this project: TensorFlow, Keras, and Python.
+
+
+
+
