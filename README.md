@@ -27,13 +27,6 @@ This project demonstrates the application of deep learning techniques to biomedi
 
 ---
 
-## **Example Kidney CT Scan (Cyst)**
-Below is an example of a kidney CT scan labeled as "Cyst":
-
-![Kidney CT Scan - Cyst](https://github.com/your-username/nephros-project/blob/main/cyst_example.png)
-
----
-
 ## **Project Workflow**
 1. **Dataset Preparation**: Download and organize the dataset for training, validation, and testing.
 2. **Data Preprocessing**:
