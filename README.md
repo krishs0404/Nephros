@@ -15,7 +15,7 @@ This project demonstrates the application of deep learning techniques to biomedi
 ## **Features**
 - Preprocessing of CT scan images for model readiness.
 - Implementation of a Convolutional Neural Network (CNN) for image classification.
-- Evaluation of the model’s performance with metrics like accuracy, precision, recall, and F1-score.
+- Evaluation of the model’s performance on the test set.
 - Insights for improving kidney disease detection models.
 
 ---
